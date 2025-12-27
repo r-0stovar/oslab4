@@ -1,0 +1,12 @@
+1:
+7 5 0
+2:
+chmod g-x deploy.sh
+3:
+#file
+6 6 6 - 0 2 7 = 6 4 0
+r w - r - - - - -
+#directory
+7 7 7 - 0 2 7 = 7 5 0
+r w x r - x - - -
+
